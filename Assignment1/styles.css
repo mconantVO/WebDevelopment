@@ -1,0 +1,74 @@
+/* VoidOps Analytics Styles */
+
+.logo {
+  width: 450px;
+  display: block;
+  margin: 0 auto;
+}
+
+.visually-hidden {
+  position: absolute;
+  left: -9999px;
+}
+
+header {
+  text-align: center;
+  background-color: #111111;
+  padding: 10px 20px 5px 20px;
+}
+
+.tagline {
+  margin-top: -5px;
+  margin-bottom: 15px;
+  letter-spacing: 4px;
+  font-size: 1.1rem;
+}
+
+main {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+body {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  margin: 0;
+  background-color: #000000;
+  color: white;
+}
+
+nav {
+  text-align: center;
+  padding: 15px;
+  background-color: #111111;
+}
+
+h2,
+.tagline {
+  text-transform: uppercase;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+nav a:hover {
+  color: #b266ff;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+.services {
+  background-color: #1a1a1a;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
